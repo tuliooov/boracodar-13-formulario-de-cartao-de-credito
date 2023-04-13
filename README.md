@@ -2,7 +2,7 @@
 ## Challenge 13 - Payment Card Form - <a href="https://www.rocketseat.com.br/boracodar/desafios-anteriores/um-forms-de-cartao-de-credito-desafio-13">#BoraCodar</a>
 Develop a Payment Card Form.
 
-![Uploading image.png…]()
+<img width="1093" alt="image" src="https://user-images.githubusercontent.com/28486303/231827993-d6c5a502-b934-4bb2-90f8-2d2770cf4c3c.png">
 
 
 ## 🛠️ In this project was used
