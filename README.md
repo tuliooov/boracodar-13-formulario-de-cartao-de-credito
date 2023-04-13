@@ -19,4 +19,4 @@ Develop a Payment Card Form.
 https://www.figma.com/file/0co7pFpZgwiCxAXNfDKMf1/%23boraCodar---Desafio-13-(Community)
 
 ## Deployed
-- https://boracodar-12-formulario-de-cartao-de-credito.vercel.app/
+- https://boracodar-13-formulario-de-cartao-de-credito.vercel.app/
